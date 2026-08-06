@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Sairamesh45/leetcode-/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Sairamesh45/leetcode-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Sairamesh45/leetcode-/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Sairamesh45/leetcode-/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Sairamesh45/leetcode-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/Sairamesh45/leetcode-/tree/main/0567-permutation-in-string/) | Medium |
 ## Two Pointers
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Sairamesh45/leetcode-/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/Sairamesh45/leetcode-/tree/main/0242-valid-anagram/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Sairamesh45/leetcode-/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Sairamesh45/leetcode-/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/Sairamesh45/leetcode-/tree/main/0567-permutation-in-string/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -130,5 +132,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sairamesh45/leetcode-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Sairamesh45/leetcode-/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Sairamesh45/leetcode-/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/Sairamesh45/leetcode-/tree/main/0567-permutation-in-string/) | Medium |
 <!---LeetCode Topics End-->
