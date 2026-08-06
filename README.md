@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Sairamesh45/leetcode-/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Sairamesh45/leetcode-/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Sairamesh45/leetcode-/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/Sairamesh45/leetcode-/tree/main/0099-recover-binary-search-tree/) | Medium |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sairamesh45/leetcode-/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Sairamesh45/leetcode-/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Sairamesh45/leetcode-/tree/main/0015-3sum/) | Medium |
+| [0033-search-in-rotated-sorted-array](https://github.com/Sairamesh45/leetcode-/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Sairamesh45/leetcode-/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Sairamesh45/leetcode-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/Sairamesh45/leetcode-/tree/main/0049-group-anagrams/) | Medium |
