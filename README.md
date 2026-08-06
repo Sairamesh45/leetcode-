@@ -35,12 +35,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Sairamesh45/leetcode-/tree/main/0001-two-sum/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sairamesh45/leetcode-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0217-contains-duplicate](https://github.com/Sairamesh45/leetcode-/tree/main/0217-contains-duplicate/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Sairamesh45/leetcode-/tree/main/0001-two-sum/) | Easy |
+| [0217-contains-duplicate](https://github.com/Sairamesh45/leetcode-/tree/main/0217-contains-duplicate/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sairamesh45/leetcode-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/Sairamesh45/leetcode-/tree/main/0217-contains-duplicate/) | Easy |
 <!---LeetCode Topics End-->
