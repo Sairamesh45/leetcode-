@@ -34,12 +34,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Sairamesh45/leetcode-/tree/main/0001-two-sum/) | Easy |
+| [0049-group-anagrams](https://github.com/Sairamesh45/leetcode-/tree/main/0049-group-anagrams/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sairamesh45/leetcode-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/Sairamesh45/leetcode-/tree/main/0217-contains-duplicate/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Sairamesh45/leetcode-/tree/main/0001-two-sum/) | Easy |
+| [0049-group-anagrams](https://github.com/Sairamesh45/leetcode-/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/Sairamesh45/leetcode-/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Sairamesh45/leetcode-/tree/main/0242-valid-anagram/) | Easy |
 ## Two Pointers
@@ -49,10 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/Sairamesh45/leetcode-/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/Sairamesh45/leetcode-/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Sairamesh45/leetcode-/tree/main/0242-valid-anagram/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/Sairamesh45/leetcode-/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/Sairamesh45/leetcode-/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
