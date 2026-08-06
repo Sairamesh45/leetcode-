@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sairamesh45/leetcode-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0020-valid-parentheses](https://github.com/Sairamesh45/leetcode-/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/Sairamesh45/leetcode-/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/Sairamesh45/leetcode-/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/Sairamesh45/leetcode-/tree/main/0242-valid-anagram/) | Easy |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Sairamesh45/leetcode-/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Sairamesh45/leetcode-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0225-implement-stack-using-queues](https://github.com/Sairamesh45/leetcode-/tree/main/0225-implement-stack-using-queues/) | Easy |
 ## Monotonic Stack
@@ -161,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Sairamesh45/leetcode-/tree/main/0225-implement-stack-using-queues/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Sairamesh45/leetcode-/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
