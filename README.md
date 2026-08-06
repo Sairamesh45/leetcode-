@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Sairamesh45/leetcode-/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/Sairamesh45/leetcode-/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Sairamesh45/leetcode-/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/Sairamesh45/leetcode-/tree/main/0049-group-anagrams/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sairamesh45/leetcode-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Sairamesh45/leetcode-/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Sairamesh45/leetcode-/tree/main/0015-3sum/) | Medium |
 | [0125-valid-palindrome](https://github.com/Sairamesh45/leetcode-/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sairamesh45/leetcode-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -101,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Sairamesh45/leetcode-/tree/main/0560-subarray-sum-equals-k/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Sairamesh45/leetcode-/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
