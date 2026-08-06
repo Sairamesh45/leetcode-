@@ -17,7 +17,7 @@ class Solution {
             if(sum > h) low = mid+1;
             else high = mid;
         }
-        return high;
+        return low;
     }
     int Sum(int mid, int piles[])
     {
