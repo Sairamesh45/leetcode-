@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Sairamesh45/leetcode-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sairamesh45/leetcode-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/Sairamesh45/leetcode-/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Sairamesh45/leetcode-/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## DP on Trees
 | Problem Name | Difficulty |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Sairamesh45/leetcode-/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sairamesh45/leetcode-/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/Sairamesh45/leetcode-/tree/main/0567-permutation-in-string/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Sairamesh45/leetcode-/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Sairamesh45/leetcode-/tree/main/0011-container-with-most-water/) | Medium |
 | [0455-assign-cookies](https://github.com/Sairamesh45/leetcode-/tree/main/0455-assign-cookies/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/Sairamesh45/leetcode-/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0860-lemonade-change](https://github.com/Sairamesh45/leetcode-/tree/main/0860-lemonade-change/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sairamesh45/leetcode-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Sairamesh45/leetcode-/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Sairamesh45/leetcode-/tree/main/0496-next-greater-element-i/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/Sairamesh45/leetcode-/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/Sairamesh45/leetcode-/tree/main/0739-daily-temperatures/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -193,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Sairamesh45/leetcode-/tree/main/0020-valid-parentheses/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/Sairamesh45/leetcode-/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
