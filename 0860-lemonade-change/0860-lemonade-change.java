@@ -1,39 +1,39 @@
 class Solution {
     public boolean lemonadeChange(int[] bills) {
-        TreeMap<Integer,Integer> map = new TreeMap<>();
+        int five = 0;
+        int ten = 0;
+        int twenty = 0;
 
-        for(int i : bills){
-            map.put(i,map.getOrDefault(i,0)+1);
-
-            if(i == 10)
+        for(int i : bills)
+        {
+            if(i == 5)
             {
-                if(!map.containsKey(5)) return false;
-                else{
-                    map.put(5, map.get(5) - 1);
-                    if(map.get(5) == 0) map.remove(5);
-                }
+                five++;
             }
 
-            else if(i == 20)
+            else if(i == 10)
             {
-                if(!map.containsKey(5)) return false;
+                five--;
+                ten++;
 
+                if(five < 0) return false;
+            }
+
+            else
+            {
+                twenty++;
+
+                if(ten == 0)
+                {
+                    five -= 3;
+                    
+                    if(five < 0) return false;
+                }
                 else{
-                    if(!map.containsKey(10))
-                    {
-                        if(map.get(5) < 3) return false;
-                        else{
-                            map.put(5, map.get(5) - 3);
-                            if(map.get(5) == 0) map.remove(5);
-                        }
-                    }
-                    else{
-                        map.put(10, map.get(10) - 1);
-                        if(map.get(10) == 0) map.remove(10);
+                    ten -= 1;
+                    five -= 1;
 
-                        map.put(5, map.get(5) - 1);
-                        if(map.get(5) == 0) map.remove(5);
-                    }
+                    if(ten < 0 || five < 0) return false;
                 }
             }
         }
