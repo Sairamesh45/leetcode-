@@ -10,6 +10,7 @@ class Solution {
 
             if(maxReach >= nums.length - 1) return true;
         }
+
         return false;
     }
 }
