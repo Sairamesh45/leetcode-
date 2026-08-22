@@ -9,21 +9,10 @@ class Solution {
             i++;
         }
 
-        int start = intervals[i][0];
-        int end = intervals[i][1];
-        while(i+1 < intervals.length && end >= intervals[i+1][0])
-        {
-            start = Math.min(start, intervals[i+1][0]);
-            end = Math.max(end, intervals[i+1][1]);
-            i++;
-        }
-
-        arr.add(new int[]{start,end});
-        i++;
         while(i < intervals.length)
         {
-            start = intervals[i][0];
-            end = intervals[i][1];
+            int start = intervals[i][0];
+            int end = intervals[i][1];
             i++;
 
             while(i < intervals.length && end >= intervals[i][0])
