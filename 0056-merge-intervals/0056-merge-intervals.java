@@ -3,14 +3,14 @@ class Solution {
         Arrays.sort(intervals, (a,b) -> Integer.compare(a[0],b[0]));
         ArrayList<int[]> arr = new ArrayList<>();
         int i = 0;
-        while(i+1 < intervals.length && intervals[i][1] < intervals[i+1][0])
-        {
-            arr.add(new int[]{intervals[i][0],intervals[i][1]});
-            i++;
-        }
-
         while(i < intervals.length)
         {
+            while(i+1 < intervals.length && intervals[i][1] < intervals[i+1][0])
+            {
+                arr.add(new int[]{intervals[i][0],intervals[i][1]});
+                i++;
+            }
+
             int start = intervals[i][0];
             int end = intervals[i][1];
             i++;
