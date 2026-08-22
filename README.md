@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Sairamesh45/leetcode-/tree/main/0045-jump-game-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/Sairamesh45/leetcode-/tree/main/0049-group-anagrams/) | Medium |
 | [0055-jump-game](https://github.com/Sairamesh45/leetcode-/tree/main/0055-jump-game/) | Medium |
+| [0056-merge-intervals](https://github.com/Sairamesh45/leetcode-/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/Sairamesh45/leetcode-/tree/main/0057-insert-interval/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Sairamesh45/leetcode-/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sairamesh45/leetcode-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0015-3sum](https://github.com/Sairamesh45/leetcode-/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/Sairamesh45/leetcode-/tree/main/0049-group-anagrams/) | Medium |
+| [0056-merge-intervals](https://github.com/Sairamesh45/leetcode-/tree/main/0056-merge-intervals/) | Medium |
 | [0217-contains-duplicate](https://github.com/Sairamesh45/leetcode-/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Sairamesh45/leetcode-/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Sairamesh45/leetcode-/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -236,5 +238,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/Sairamesh45/leetcode-/tree/main/0056-merge-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/Sairamesh45/leetcode-/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
