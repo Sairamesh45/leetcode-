@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Sairamesh45/leetcode-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Sairamesh45/leetcode-/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/Sairamesh45/leetcode-/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sairamesh45/leetcode-/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0455-assign-cookies](https://github.com/Sairamesh45/leetcode-/tree/main/0455-assign-cookies/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Sairamesh45/leetcode-/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Sairamesh45/leetcode-/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Sairamesh45/leetcode-/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Sairamesh45/leetcode-/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sairamesh45/leetcode-/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sairamesh45/leetcode-/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Sairamesh45/leetcode-/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Sairamesh45/leetcode-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/Sairamesh45/leetcode-/tree/main/0567-permutation-in-string/) | Medium |
