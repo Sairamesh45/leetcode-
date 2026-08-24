@@ -23,13 +23,6 @@ class Solution {
             }
         }
 
-        List<List<String>> list = new ArrayList<>();
-
-        for(String str : map.keySet())
-        {
-            list.add(map.get(str));
-        }
-
-        return list;
+        return new ArrayList<>(map.values());
     }
 }
