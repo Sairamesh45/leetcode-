@@ -1,36 +1,41 @@
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
-        Arrays.sort(nums);
         List<List<Integer>> list = new ArrayList<>();
+        Arrays.sort(nums);
 
         for(int i = 0; i < nums.length - 2; i++)
         {
-            int x = nums[i];
-            int left = i + 1;
-            int target = 0 - x;
-            int right = nums.length - 1;
+            if (i > 0 && nums[i] == nums[i - 1])
+                continue;
 
-            if(i > 0 && nums[i] == nums[i-1]) continue;
+        
+            int curr = nums[i];
 
-            while(left < right)
-            {
-                if(nums[left] + nums[right] == target)
-                {
-                    List<Integer> l = new ArrayList<>();
-                    l.add(nums[left]);
-                    l.add(nums[right]);
-                    l.add(x);
-                    list.add(l);
-                    left++;
-                    right--;
-                    while(left < right && nums[left] == nums[left-1]) left++;
-                    while(left < right && nums[right] == nums[right+1]) right--;
+            int l = i + 1, r = nums.length - 1;
+            int sum = 0;
 
-                }
+            while(l < r){
+                sum = nums[l] + nums[r];
 
-                
-                else if(nums[left] + nums[right] < target) left++;
-                else right--;
+                if(sum + curr == 0){
+                    List<Integer> arr = new ArrayList<>();
+
+                    arr.add(nums[l]);
+                    arr.add(nums[r]);
+                    arr.add(curr);
+                    
+                    list.add(arr);
+                    l++;
+                    r--;
+
+                    while (l < r && nums[l] == nums[l - 1])
+                        l++;
+
+                    while (l < r && nums[r] == nums[r + 1])
+                        r--;
+                }    
+                else if(sum + curr > 0) r--;
+                else l++;
             }
         }
         return list;
