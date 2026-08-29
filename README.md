@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Sairamesh45/leetcode-/tree/main/0226-invert-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/Sairamesh45/leetcode-/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/Sairamesh45/leetcode-/tree/main/0733-flood-fill/) | Easy |
+| [1020-number-of-enclaves](https://github.com/Sairamesh45/leetcode-/tree/main/1020-number-of-enclaves/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Sairamesh45/leetcode-/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Sairamesh45/leetcode-/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0994-rotting-oranges](https://github.com/Sairamesh45/leetcode-/tree/main/0994-rotting-oranges/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sairamesh45/leetcode-/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1020-number-of-enclaves](https://github.com/Sairamesh45/leetcode-/tree/main/1020-number-of-enclaves/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Sairamesh45/leetcode-/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sairamesh45/leetcode-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Hash Table
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Sairamesh45/leetcode-/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/Sairamesh45/leetcode-/tree/main/0130-surrounded-regions/) | Medium |
 | [0547-number-of-provinces](https://github.com/Sairamesh45/leetcode-/tree/main/0547-number-of-provinces/) | Medium |
+| [1020-number-of-enclaves](https://github.com/Sairamesh45/leetcode-/tree/main/1020-number-of-enclaves/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Sairamesh45/leetcode-/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/Sairamesh45/leetcode-/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Sairamesh45/leetcode-/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/Sairamesh45/leetcode-/tree/main/1020-number-of-enclaves/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -289,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Sairamesh45/leetcode-/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/Sairamesh45/leetcode-/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Sairamesh45/leetcode-/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/Sairamesh45/leetcode-/tree/main/1020-number-of-enclaves/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
