@@ -12,7 +12,7 @@ class Solution {
 
         for(int i = 0; i < n; i++)
         {
-            for(int j = i+1; j < m; j++)
+            for(int j = i + 1; j < m; j++)
             {
                 if(isConnected[i][j] == 1){
                 graph.get(i).add(j);
@@ -22,8 +22,8 @@ class Solution {
         }
 
         boolean visited[] = new boolean[n];
-        int count = 0;
 
+        int count = 0;
         for(int i = 0; i < n; i++)
         {
             if(!visited[i])
@@ -32,16 +32,15 @@ class Solution {
                 count++;
             }
         }
-        
         return count;
-        
     }
 
     public void dfs(boolean visited[], List<List<Integer>> graph, int node)
     {
         visited[node] = true;
 
-        for(int nei : graph.get(node)){
+        for(int nei : graph.get(node))
+        {
             if(!visited[nei]) dfs(visited,graph,nei);
         }
     }
