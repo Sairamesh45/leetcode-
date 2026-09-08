@@ -1,29 +1,33 @@
 class Solution {
     public int[][] updateMatrix(int[][] mat) {
-        Queue<int[]> q = new LinkedList<>();
-        int a[][] = new int[mat.length][mat[0].length];
-
-        for(int i = 0; i < mat.length; i++)
-        {
-            for(int j = 0; j < mat[i].length; j++)
-            {
-                if(mat[i][j] == 0)
-                {
-                    q.offer(new int[]{i,j});
-                }
-                else if(mat[i][j] == 1)
-                {
-                    a[i][j] = -1;
-                }
-            }
-        }
-
         int dirs[][] = {
             {-1, 0},
             {1, 0},
             {0, -1},
             {0, 1}
         };
+
+        int n = mat.length;
+        int m = mat[0].length;
+
+        int arr[][] = new int[n][m];
+
+        Queue<int[]> q = new LinkedList<>();
+
+        for(int i = 0; i < n; i++)
+        {
+            for(int j = 0; j < m; j++)
+            {
+                if(mat[i][j] == 0)
+                {
+                    arr[i][j] = 0;
+                    q.offer(new int[]{i,j});
+                }
+                else{
+                    arr[i][j] = -1;
+                }
+            }
+        }
 
         while(!q.isEmpty())
         {
@@ -36,17 +40,13 @@ class Solution {
                 int nr = r + dir[0];
                 int nc = c + dir[1];
 
-                if(nr >= 0 && nr < mat.length && nc >= 0 && nc < mat[0].length)
+                if(nr >= 0 && nr < n && nc >=0 && nc < m && arr[nr][nc] == -1)
                 {
-                    if(a[nr][nc] == -1)
-                    {
-                        a[nr][nc] = a[r][c] + 1;
-                        q.offer(new int[]{nr,nc});
-                    }
+                    arr[nr][nc] = arr[r][c] + 1;
+                    q.offer(new int[]{nr,nc});
                 }
             }
         }
-
-        return a;
+        return arr;
     }
 }
