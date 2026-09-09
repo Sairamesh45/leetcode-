@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Sairamesh45/leetcode-/tree/main/0226-invert-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/Sairamesh45/leetcode-/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/Sairamesh45/leetcode-/tree/main/0733-flood-fill/) | Easy |
+| [0785-is-graph-bipartite](https://github.com/Sairamesh45/leetcode-/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Sairamesh45/leetcode-/tree/main/1020-number-of-enclaves/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Sairamesh45/leetcode-/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Binary Search Tree
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Sairamesh45/leetcode-/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Sairamesh45/leetcode-/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/Sairamesh45/leetcode-/tree/main/0547-number-of-provinces/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/Sairamesh45/leetcode-/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Sairamesh45/leetcode-/tree/main/1020-number-of-enclaves/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Sairamesh45/leetcode-/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/Sairamesh45/leetcode-/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/Sairamesh45/leetcode-/tree/main/0733-flood-fill/) | Easy |
+| [0785-is-graph-bipartite](https://github.com/Sairamesh45/leetcode-/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0994-rotting-oranges](https://github.com/Sairamesh45/leetcode-/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Sairamesh45/leetcode-/tree/main/1020-number-of-enclaves/) | Medium |
 ## Quicksort
@@ -325,4 +328,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/Sairamesh45/leetcode-/tree/main/0547-number-of-provinces/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/Sairamesh45/leetcode-/tree/main/0785-is-graph-bipartite/) | Medium |
+## Graph Coloring
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/Sairamesh45/leetcode-/tree/main/0785-is-graph-bipartite/) | Medium |
+## Bipartite Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/Sairamesh45/leetcode-/tree/main/0785-is-graph-bipartite/) | Medium |
 <!---LeetCode Topics End-->
