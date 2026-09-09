@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Sairamesh45/leetcode-/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0130-surrounded-regions](https://github.com/Sairamesh45/leetcode-/tree/main/0130-surrounded-regions/) | Medium |
+| [0200-number-of-islands](https://github.com/Sairamesh45/leetcode-/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Sairamesh45/leetcode-/tree/main/0226-invert-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/Sairamesh45/leetcode-/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/Sairamesh45/leetcode-/tree/main/0733-flood-fill/) | Easy |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sairamesh45/leetcode-/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sairamesh45/leetcode-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Sairamesh45/leetcode-/tree/main/0169-majority-element/) | Easy |
+| [0200-number-of-islands](https://github.com/Sairamesh45/leetcode-/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Sairamesh45/leetcode-/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/Sairamesh45/leetcode-/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/Sairamesh45/leetcode-/tree/main/0283-move-zeroes/) | Easy |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sairamesh45/leetcode-/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/Sairamesh45/leetcode-/tree/main/0130-surrounded-regions/) | Medium |
+| [0200-number-of-islands](https://github.com/Sairamesh45/leetcode-/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/Sairamesh45/leetcode-/tree/main/0547-number-of-provinces/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Sairamesh45/leetcode-/tree/main/1020-number-of-enclaves/) | Medium |
 ## Prefix Sum
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Sairamesh45/leetcode-/tree/main/0036-valid-sudoku/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Sairamesh45/leetcode-/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0130-surrounded-regions](https://github.com/Sairamesh45/leetcode-/tree/main/0130-surrounded-regions/) | Medium |
+| [0200-number-of-islands](https://github.com/Sairamesh45/leetcode-/tree/main/0200-number-of-islands/) | Medium |
 | [0542-01-matrix](https://github.com/Sairamesh45/leetcode-/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/Sairamesh45/leetcode-/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Sairamesh45/leetcode-/tree/main/0994-rotting-oranges/) | Medium |
@@ -297,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/Sairamesh45/leetcode-/tree/main/0130-surrounded-regions/) | Medium |
+| [0200-number-of-islands](https://github.com/Sairamesh45/leetcode-/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Sairamesh45/leetcode-/tree/main/0226-invert-binary-tree/) | Easy |
 | [0542-01-matrix](https://github.com/Sairamesh45/leetcode-/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/Sairamesh45/leetcode-/tree/main/0547-number-of-provinces/) | Medium |
