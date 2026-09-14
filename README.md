@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Sairamesh45/leetcode-/tree/main/0994-rotting-oranges/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sairamesh45/leetcode-/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Sairamesh45/leetcode-/tree/main/1020-number-of-enclaves/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Sairamesh45/leetcode-/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Sairamesh45/leetcode-/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sairamesh45/leetcode-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Hash Table
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Sairamesh45/leetcode-/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Sairamesh45/leetcode-/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Sairamesh45/leetcode-/tree/main/1020-number-of-enclaves/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Sairamesh45/leetcode-/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/Sairamesh45/leetcode-/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0994-rotting-oranges](https://github.com/Sairamesh45/leetcode-/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Sairamesh45/leetcode-/tree/main/1020-number-of-enclaves/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Sairamesh45/leetcode-/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
