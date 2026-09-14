@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/Sairamesh45/leetcode-/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Sairamesh45/leetcode-/tree/main/1020-number-of-enclaves/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Sairamesh45/leetcode-/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+| [1631-path-with-minimum-effort](https://github.com/Sairamesh45/leetcode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Sairamesh45/leetcode-/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sairamesh45/leetcode-/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Sairamesh45/leetcode-/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+| [1631-path-with-minimum-effort](https://github.com/Sairamesh45/leetcode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sairamesh45/leetcode-/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Sairamesh45/leetcode-/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Sairamesh45/leetcode-/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/Sairamesh45/leetcode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Sairamesh45/leetcode-/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sairamesh45/leetcode-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Hash Table
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sairamesh45/leetcode-/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/Sairamesh45/leetcode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -211,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Sairamesh45/leetcode-/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Sairamesh45/leetcode-/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Sairamesh45/leetcode-/tree/main/1020-number-of-enclaves/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/Sairamesh45/leetcode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -265,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Sairamesh45/leetcode-/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Sairamesh45/leetcode-/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Sairamesh45/leetcode-/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/Sairamesh45/leetcode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -318,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Sairamesh45/leetcode-/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Sairamesh45/leetcode-/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Sairamesh45/leetcode-/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/Sairamesh45/leetcode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -359,4 +366,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Sairamesh45/leetcode-/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Dijkstra's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1631-path-with-minimum-effort](https://github.com/Sairamesh45/leetcode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 <!---LeetCode Topics End-->
