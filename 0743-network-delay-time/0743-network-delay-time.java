@@ -41,6 +41,8 @@ class Solution {
             int u = p.u;
             int d1 = p.dist;
 
+            if(d1 > dist[u]) continue;
+
             for(Edge nei : graph.get(u))
             {
                 int v = nei.u;
