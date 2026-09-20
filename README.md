@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Sairamesh45/leetcode-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/Sairamesh45/leetcode-/tree/main/0045-jump-game-ii/) | Medium |
+| [0053-maximum-subarray](https://github.com/Sairamesh45/leetcode-/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Sairamesh45/leetcode-/tree/main/0055-jump-game/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sairamesh45/leetcode-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/Sairamesh45/leetcode-/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Sairamesh45/leetcode-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/Sairamesh45/leetcode-/tree/main/0045-jump-game-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/Sairamesh45/leetcode-/tree/main/0049-group-anagrams/) | Medium |
+| [0053-maximum-subarray](https://github.com/Sairamesh45/leetcode-/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Sairamesh45/leetcode-/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/Sairamesh45/leetcode-/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/Sairamesh45/leetcode-/tree/main/0057-insert-interval/) | Medium |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Sairamesh45/leetcode-/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Sairamesh45/leetcode-/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Sairamesh45/leetcode-/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Heap (Priority Queue)
