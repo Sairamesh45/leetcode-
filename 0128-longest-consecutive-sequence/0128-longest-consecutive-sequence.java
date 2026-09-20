@@ -6,21 +6,19 @@ class Solution {
         {
             set.add(i);
         }
-
         int max = 0;
+
         for(int i : set)
         {
-            if(!set.contains(i - 1))
-            {
+            if(!set.contains(i - 1)){
                 int count = 1;
                 while(set.contains(i + count))
                 {
                     count++;
                 }
-                max = Math.max(count,max);
+                max = Math.max(max, count);
             }
         }
-
         return max;
     }
 }
