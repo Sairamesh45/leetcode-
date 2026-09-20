@@ -19,21 +19,19 @@ public class Solution {
             slow = slow.next;
             fast = fast.next.next;
 
-            if(slow == fast)
-            {
-                break;
-            }
+            if(slow == fast) break;
         }
 
+        if(fast == null || fast.next == null) return null;
+        
         slow = head;
-        if(fast != null && fast.next != null){
-        while(slow != fast){
+        
+        while(slow != fast)
+        {
             slow = slow.next;
             fast = fast.next;
         }
 
         return slow;
-        }
-        return null;
     }
 }
