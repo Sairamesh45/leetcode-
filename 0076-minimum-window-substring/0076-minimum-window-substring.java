@@ -5,24 +5,21 @@ class Solution {
         for(int i = 0; i < t.length(); i++)
         {
             char ch = t.charAt(i);
+
             freq[ch]++;
         }
 
-        int l = 0, r = 0;
-        int min = Integer.MAX_VALUE;
-        int start = -1, end = -1;
-
         int req = t.length();
+        int l = 0, r = 0;
+        int start = -1, end = -1;
+        int min = Integer.MAX_VALUE;
 
-        while(r < s.length())
-        {
-            char ch1 = s.charAt(r);
+        while(r < s.length()){
+            char ch = s.charAt(r);
 
-            if(freq[ch1] > 0){
-                req--;
-            }
+            if(freq[ch] > 0) req--;
 
-            freq[ch1]--;
+            freq[ch]--;
 
             while(req == 0)
             {
@@ -32,20 +29,16 @@ class Solution {
                     end = r;
                     min = r - l + 1;
                 }
+                char ch1 = s.charAt(l);
+                freq[ch1]++;
 
-                char ch2 = s.charAt(l);
-                freq[ch2]++;
-                if(freq[ch2] > 0)
-                req++;
-
+                if(freq[ch1] > 0) req++;
                 l++;
             }
-
             r++;
         }
 
         if(min == Integer.MAX_VALUE) return "";
-
-        return s.substring(start, end + 1);
+        return s.substring(start, end+1);
     }
 }
