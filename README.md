@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sairamesh45/leetcode-/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Sairamesh45/leetcode-/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Sairamesh45/leetcode-/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Sairamesh45/leetcode-/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/Sairamesh45/leetcode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Sairamesh45/leetcode-/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Sairamesh45/leetcode-/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sairamesh45/leetcode-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Sairamesh45/leetcode-/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
