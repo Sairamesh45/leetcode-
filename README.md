@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Sairamesh45/leetcode-/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Sairamesh45/leetcode-/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Sairamesh45/leetcode-/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Sairamesh45/leetcode-/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Sairamesh45/leetcode-/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sairamesh45/leetcode-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Hash Table
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Sairamesh45/leetcode-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/Sairamesh45/leetcode-/tree/main/0567-permutation-in-string/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sairamesh45/leetcode-/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Sairamesh45/leetcode-/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Sairamesh45/leetcode-/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sairamesh45/leetcode-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Two Pointers
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Sairamesh45/leetcode-/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/Sairamesh45/leetcode-/tree/main/0455-assign-cookies/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Sairamesh45/leetcode-/tree/main/0905-sort-array-by-parity/) | Easy |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Sairamesh45/leetcode-/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
