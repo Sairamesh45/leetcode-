@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/Sairamesh45/leetcode-/tree/main/0009-palindrome-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sairamesh45/leetcode-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sairamesh45/leetcode-/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 ## Linked List
