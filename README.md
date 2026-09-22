@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Sairamesh45/leetcode-/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/Sairamesh45/leetcode-/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/Sairamesh45/leetcode-/tree/main/0057-insert-interval/) | Medium |
+| [0066-plus-one](https://github.com/Sairamesh45/leetcode-/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Sairamesh45/leetcode-/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Sairamesh45/leetcode-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sairamesh45/leetcode-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Sairamesh45/leetcode-/tree/main/0009-palindrome-number/) | Easy |
+| [0066-plus-one](https://github.com/Sairamesh45/leetcode-/tree/main/0066-plus-one/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sairamesh45/leetcode-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sairamesh45/leetcode-/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 ## Linked List
