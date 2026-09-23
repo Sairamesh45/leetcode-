@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Sairamesh45/leetcode-/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/Sairamesh45/leetcode-/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Sairamesh45/leetcode-/tree/main/0055-jump-game/) | Medium |
+| [0070-climbing-stairs](https://github.com/Sairamesh45/leetcode-/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sairamesh45/leetcode-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/Sairamesh45/leetcode-/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0542-01-matrix](https://github.com/Sairamesh45/leetcode-/tree/main/0542-01-matrix/) | Medium |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Sairamesh45/leetcode-/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/Sairamesh45/leetcode-/tree/main/0066-plus-one/) | Easy |
+| [0070-climbing-stairs](https://github.com/Sairamesh45/leetcode-/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sairamesh45/leetcode-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sairamesh45/leetcode-/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 ## Linked List
@@ -456,4 +458,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1560-most-visited-sector-in-a-circular-track](https://github.com/Sairamesh45/leetcode-/tree/main/1560-most-visited-sector-in-a-circular-track/) | Easy |
 | [1583-count-unhappy-friends](https://github.com/Sairamesh45/leetcode-/tree/main/1583-count-unhappy-friends/) | Medium |
 | [1603-design-parking-system](https://github.com/Sairamesh45/leetcode-/tree/main/1603-design-parking-system/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Sairamesh45/leetcode-/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
