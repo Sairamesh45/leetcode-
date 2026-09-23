@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Sairamesh45/leetcode-/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Sairamesh45/leetcode-/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sairamesh45/leetcode-/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1560-most-visited-sector-in-a-circular-track](https://github.com/Sairamesh45/leetcode-/tree/main/1560-most-visited-sector-in-a-circular-track/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/Sairamesh45/leetcode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Sairamesh45/leetcode-/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Sairamesh45/leetcode-/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -446,4 +447,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sairamesh45/leetcode-/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1560-most-visited-sector-in-a-circular-track](https://github.com/Sairamesh45/leetcode-/tree/main/1560-most-visited-sector-in-a-circular-track/) | Easy |
 <!---LeetCode Topics End-->
