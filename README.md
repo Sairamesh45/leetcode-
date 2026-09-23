@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sairamesh45/leetcode-/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Sairamesh45/leetcode-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Sairamesh45/leetcode-/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [1603-design-parking-system](https://github.com/Sairamesh45/leetcode-/tree/main/1603-design-parking-system/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Sairamesh45/leetcode-/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/Sairamesh45/leetcode-/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [1603-design-parking-system](https://github.com/Sairamesh45/leetcode-/tree/main/1603-design-parking-system/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -451,4 +453,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1560-most-visited-sector-in-a-circular-track](https://github.com/Sairamesh45/leetcode-/tree/main/1560-most-visited-sector-in-a-circular-track/) | Easy |
+| [1603-design-parking-system](https://github.com/Sairamesh45/leetcode-/tree/main/1603-design-parking-system/) | Easy |
 <!---LeetCode Topics End-->
