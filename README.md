@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sairamesh45/leetcode-/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Sairamesh45/leetcode-/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/Sairamesh45/leetcode-/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [2861-maximum-number-of-alloys](https://github.com/Sairamesh45/leetcode-/tree/main/2861-maximum-number-of-alloys/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1583-count-unhappy-friends](https://github.com/Sairamesh45/leetcode-/tree/main/1583-count-unhappy-friends/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Sairamesh45/leetcode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Sairamesh45/leetcode-/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [2861-maximum-number-of-alloys](https://github.com/Sairamesh45/leetcode-/tree/main/2861-maximum-number-of-alloys/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Sairamesh45/leetcode-/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sairamesh45/leetcode-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Hash Table
