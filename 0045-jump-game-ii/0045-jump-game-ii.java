@@ -8,7 +8,7 @@ class Solution {
         {
             maxReach = Math.max(maxReach, i + nums[i]);
 
-            if(i == currentEnd)
+            if(i >= currentEnd)
             {
                 currentEnd = maxReach;
                 jumps++;
