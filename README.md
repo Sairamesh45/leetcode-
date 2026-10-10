@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sairamesh45/leetcode-/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Sairamesh45/leetcode-/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/Sairamesh45/leetcode-/tree/main/0036-valid-sudoku/) | Medium |
+| [0039-combination-sum](https://github.com/Sairamesh45/leetcode-/tree/main/0039-combination-sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Sairamesh45/leetcode-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/Sairamesh45/leetcode-/tree/main/0045-jump-game-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/Sairamesh45/leetcode-/tree/main/0049-group-anagrams/) | Medium |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/Sairamesh45/leetcode-/tree/main/0039-combination-sum/) | Medium |
 | [0078-subsets](https://github.com/Sairamesh45/leetcode-/tree/main/0078-subsets/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
