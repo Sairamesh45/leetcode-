@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Sairamesh45/leetcode-/tree/main/0099-recover-binary-search-tree/) | Medium |
+| [0100-same-tree](https://github.com/Sairamesh45/leetcode-/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sairamesh45/leetcode-/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sairamesh45/leetcode-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Sairamesh45/leetcode-/tree/main/0226-invert-binary-tree/) | Easy |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Sairamesh45/leetcode-/tree/main/0099-recover-binary-search-tree/) | Medium |
+| [0100-same-tree](https://github.com/Sairamesh45/leetcode-/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sairamesh45/leetcode-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0130-surrounded-regions](https://github.com/Sairamesh45/leetcode-/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Sairamesh45/leetcode-/tree/main/0200-number-of-islands/) | Medium |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Sairamesh45/leetcode-/tree/main/0099-recover-binary-search-tree/) | Medium |
+| [0100-same-tree](https://github.com/Sairamesh45/leetcode-/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sairamesh45/leetcode-/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sairamesh45/leetcode-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Sairamesh45/leetcode-/tree/main/0226-invert-binary-tree/) | Easy |
@@ -390,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/Sairamesh45/leetcode-/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sairamesh45/leetcode-/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sairamesh45/leetcode-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0130-surrounded-regions](https://github.com/Sairamesh45/leetcode-/tree/main/0130-surrounded-regions/) | Medium |
