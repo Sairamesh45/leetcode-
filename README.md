@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Sairamesh45/leetcode-/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/Sairamesh45/leetcode-/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sairamesh45/leetcode-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/Sairamesh45/leetcode-/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0198-house-robber](https://github.com/Sairamesh45/leetcode-/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Sairamesh45/leetcode-/tree/main/0213-house-robber-ii/) | Medium |
 | [0322-coin-change](https://github.com/Sairamesh45/leetcode-/tree/main/0322-coin-change/) | Medium |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Sairamesh45/leetcode-/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Sairamesh45/leetcode-/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/Sairamesh45/leetcode-/tree/main/0125-valid-palindrome/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/Sairamesh45/leetcode-/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0242-valid-anagram](https://github.com/Sairamesh45/leetcode-/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Sairamesh45/leetcode-/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0402-remove-k-digits](https://github.com/Sairamesh45/leetcode-/tree/main/0402-remove-k-digits/) | Medium |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Sairamesh45/leetcode-/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/Sairamesh45/leetcode-/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/Sairamesh45/leetcode-/tree/main/0078-subsets/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/Sairamesh45/leetcode-/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
