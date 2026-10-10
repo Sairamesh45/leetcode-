@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Sairamesh45/leetcode-/tree/main/0057-insert-interval/) | Medium |
 | [0066-plus-one](https://github.com/Sairamesh45/leetcode-/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Sairamesh45/leetcode-/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0078-subsets](https://github.com/Sairamesh45/leetcode-/tree/main/0078-subsets/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Sairamesh45/leetcode-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sairamesh45/leetcode-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Sairamesh45/leetcode-/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -488,4 +489,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Sairamesh45/leetcode-/tree/main/0416-partition-equal-subset-sum/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/Sairamesh45/leetcode-/tree/main/0078-subsets/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/Sairamesh45/leetcode-/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
