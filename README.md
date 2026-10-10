@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Sairamesh45/leetcode-/tree/main/0009-palindrome-number/) | Easy |
+| [0050-powx-n](https://github.com/Sairamesh45/leetcode-/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/Sairamesh45/leetcode-/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/Sairamesh45/leetcode-/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sairamesh45/leetcode-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Sairamesh45/leetcode-/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0050-powx-n](https://github.com/Sairamesh45/leetcode-/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Sairamesh45/leetcode-/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Sairamesh45/leetcode-/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Floyd's Cycle Finding Algorithm
