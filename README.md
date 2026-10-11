@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Sairamesh45/leetcode-/tree/main/0542-01-matrix/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Sairamesh45/leetcode-/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sairamesh45/leetcode-/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/Sairamesh45/leetcode-/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sairamesh45/leetcode-/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Sairamesh45/leetcode-/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Sairamesh45/leetcode-/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sairamesh45/leetcode-/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/Sairamesh45/leetcode-/tree/main/0567-permutation-in-string/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Sairamesh45/leetcode-/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/Sairamesh45/leetcode-/tree/main/1143-longest-common-subsequence/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/Sairamesh45/leetcode-/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -526,4 +528,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/Sairamesh45/leetcode-/tree/main/0078-subsets/) | Medium |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1143-longest-common-subsequence](https://github.com/Sairamesh45/leetcode-/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
